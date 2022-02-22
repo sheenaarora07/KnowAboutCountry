@@ -1,0 +1,73 @@
+{
+  "countries": [
+    {
+      "name": "Usa",
+      "capital" : "Washington",
+      "population": 327793744,
+      "area": 9834000,
+      "currency": "USD"
+    },
+    {
+      "name": "Poland",
+      "capital" : "Warsawa",
+      "population": 37778784,
+      "area": 312696,
+      "currency": "Zloty"
+    },{
+       "name": "Italy",
+      "capital" : "Rome",
+      "population": 6048373,
+      "area": 505990,
+      "currency": "EUR"
+    },{
+        "name": "Spain",
+        "capital" : "Madrid",
+        "population": 46784361,
+        "area": 131957,
+        "currency": "EUR"
+    },{
+       "name": "Uk",
+      "capital" : "London",
+      "population": 68468489,
+      "area": 244820,
+      "currency": "Pound"
+    },{
+       "name": "Russia",
+      "capital" : "Moscow",
+      "population": 146793744,
+      "area": 17125191,
+      "currency": "RUB"
+    },{
+        "name": "Nigeria",
+        "capital" : "Abuja",
+        "population": 214489279,
+        "area": 923767,
+        "currency": "Niara"
+    },{
+        "name": "France",
+        "capital" : "Paris",
+        "population": 65509842,
+        "area": 212900,
+        "currency": "EUR"
+    },{
+        "name": "Germany",
+        "capital" : "Berlin",
+        "population": 84221555,
+        "area": 357022,
+        "currency": "EUR"
+    },{
+        "name": "Ireland",
+        "capital" : "Dublin",
+        "population": 5028007,
+        "area": 27133,
+        "currency": "EUR"
+    },{
+        "name": "Monaco",
+        "capital" : "Monte Carlo",
+        "population": 39696,
+        "area": 19500,
+        "currency": "EUR"
+    }
+
+    ]
+}
